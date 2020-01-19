@@ -17,8 +17,9 @@ The result for each question is as follows:
 3) Can we predict the salary of developer who loves to solve problems? Yes, $50,802
 
 This project includes 3 files. This ReadMe file, the jupyter notebook, and a link to the blog post.
+  - The Blog post file has a link to a blog post that communicates the project to non-technical readers.
   - The ReadMe file with the motivation for the project, the files in the repository with a small description of each, a summary of the         results of the analysis, and necessary acknowledgements.
   - The jupyter notebook includes executable code that was used for this project with proper comments.
-  - The Blog post file has a link to a blog post that communicates the project to non-technical readers.
+ 
   
 Acknowledgements: We would like to thank Stack Overflow for making the dataset of their annual survey publicly available.
