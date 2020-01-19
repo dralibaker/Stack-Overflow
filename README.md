@@ -20,3 +20,5 @@ This project includes 3 files. This ReadMe file, the jupyter notebook, and a lin
   - The ReadMe file with the motivation for the project, the files in the repository with a small description of each, a summary of the         results of the analysis, and necessary acknowledgements.
   - The jupyter notebook includes executable code that was used for this project with proper comments.
   - The Blog post file has a link to a blog post that communicates the project to non-technical readers.
+  
+Acknowledgements: We would like to thank Stack Overflow for making the dataset of their annual survey publicly available.
